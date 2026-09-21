@@ -1,47 +1,60 @@
-# Hi, I'm Perpetual Stanley 👋
+Hi, I’m Perpetual Stanley 👋
 
-**Veterinarian | AMR Researcher | Software Engineering Enthusiast**
+Veterinarian | AMR & Microbiology Researcher | Software Engineering & Data Enthusiast
 
-## About Me
+I am a Doctor of Veterinary Medicine graduate with experience in veterinary microbiology, antimicrobial resistance, infectious diseases, veterinary public health, and One Health.
 
-I am a Doctor of Veterinary Medicine graduate with interests in antimicrobial resistance, veterinary public health, One Health, data analysis and computational biology.
+My research experience includes bacterial culture and isolation, identification, antimicrobial susceptibility testing, research data analysis, and scientific reporting. My published research investigated the occurrence and antimicrobial susceptibility profile of Escherichia coli isolates from vended milk in the University of Abuja community.
 
-## Technical Skills
+Alongside my veterinary and research background, I have developed technical skills in Python, SQL, Linux, backend development, and data analysis through software engineering and data-related training.
 
-- Python
-- SQL
-- Linux
-- JavaScript
-- HTML/CSS
-- Backend Development
-- Data Analysis
+🔬 Research Interests
 
-## Research Interests
+* Microbial Genomics
+* Antimicrobial Resistance (AMR)
+* Infectious Disease Surveillance
+* One Health
+* Veterinary Public Health
+* Pathogen Evolution
+* Computational Biology
 
-- Antimicrobial Resistance
-- Microbial Genomics
-- Infectious Disease Surveillance
-- One Health
-- Veterinary Public Health
+💻 Technical Skills
 
-## Currently Learning
+Programming: Python, JavaScript, HTML/CSS, SQL
+Backend: Flask, REST APIs, MongoDB
+Data: Data Analysis, Power BI, Excel
+Systems: Linux/Unix, Git/GitHub
+Other: Docker, Jenkins, AI Data Annotation & Evaluation
 
-- Python for Data Analysis
-- Computational Biology
-- Bioinformatics Fundamentals
+🚀 Featured Projects
 
-## Featured Projects
+FurFiles
 
-FurFiles — Python
-Messaging application supporting individual and group communication.
+A Python/Flask backend API and messaging application using MongoDB.
 
-CanineConnect — Python
-Digital application for facilitating canine sales and purchases.
+Technologies: Python · Flask · Flask-RESTful · MongoDB · PyMongo · Docker
 
-ALX User Data — Python
-Backend project involving user-data management and related application functionality.
+CanineConnect
 
-## Connect With Me
+A software project exploring an application for the buying and selling of dogs, combining my veterinary background with software development.
 
-- [LinkedIn](https://www.linkedin.com/in/perpetual-stanley-dvm-a34684217)
-- Email: dr.stanleyperpetual@gmail.com
+Technologies: Python
+
+📚 Currently Learning
+
+* Computational Biology
+* Microbial Genomics
+* Bioinformatics
+* Data Analysis
+* Python for Scientific Research
+
+🎯 Professional Interests
+
+I am interested in opportunities at the intersection of:
+
+Veterinary Medicine × Microbiology × AMR × Public Health × Data & Technology
+
+📫 Connect With Me
+
+* LinkedIn: Perpetual Stanley
+* Email: dr.stanleyperpetual@gmail.com
