@@ -32,7 +32,14 @@ I am a Doctor of Veterinary Medicine graduate with interests in antimicrobial re
 
 ## Featured Projects
 
-- 
+FurFiles — Python
+Messaging application supporting individual and group communication.
+
+CanineConnect — Python
+Digital application for facilitating canine sales and purchases.
+
+ALX User Data — Python
+Backend project involving user-data management and related application functionality.
 
 ## Connect With Me
 
