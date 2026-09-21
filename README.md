@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Perpetual Stanley 👋
 
-<!--
-**Tech-Doc/Tech-Doc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Veterinarian | AMR Researcher | Software Engineering Enthusiast**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Doctor of Veterinary Medicine graduate with interests in antimicrobial resistance, veterinary public health, One Health, data analysis and computational biology.
+
+## Technical Skills
+
+- Python
+- SQL
+- Linux
+- JavaScript
+- HTML/CSS
+- Backend Development
+- Data Analysis
+
+## Research Interests
+
+- Antimicrobial Resistance
+- Microbial Genomics
+- Infectious Disease Surveillance
+- One Health
+- Veterinary Public Health
+
+## Currently Learning
+
+- Python for Data Analysis
+- Computational Biology
+- Bioinformatics Fundamentals
+
+## Featured Projects
+
+- 
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/perpetual-stanley-dvm-a34684217)
+- Email: dr.stanleyperpetual@gmail.com
